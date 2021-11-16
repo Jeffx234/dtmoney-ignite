@@ -11,7 +11,7 @@
 ### Fotos
 
 <div>
-   <img src="https://github.com/Jeffx234/Ignite-reactjs-rocketseat/blob/main/Chapter%20II/dtmoney/src/assets/dtmoney.gif" width="500px" />
+   <img src="https://github.com/Jeffx234/dtmoney-ignite/blob/master/src/assets/dtmoney.gif" width="500px" />
    
 </div>
 
